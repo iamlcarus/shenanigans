@@ -1,10 +1,10 @@
 [
     {
         "type" : "mutation",
-        "id" : "ACROBATICS",
-        "name" : "Acrobatics",
-        "points" : 1,
-        "description" : "You can do acrobatics. sick.",
+        "id" : "PERFORMING_ARTS",
+        "name" : "Performing Arts",
+        "points" : 2,
+        "description" : "You have training as a performer of some kind.",
         "starting_trait" : true,
         "initial_ma_styles" : [ "style_acrobat" ],
         "valid" : false
