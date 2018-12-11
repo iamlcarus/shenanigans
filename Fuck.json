@@ -27,22 +27,7 @@
                 "mult_bonuses" : [["damage", "bash", 1.5]],
                 "stun_dur" : 2
             }
-        ],
-        "onblock_buffs": [
-            {
-                "id" : "acrobat_speedboost_two
-                ",
-                "name" : "Viper Lock",
-                "description" : "You bit true!  Your next attack will be the Viper Strike!",
-                "unarmed_allowed" : true,
-                "min_unarmed" : 0,
-                "req_buffs" : [
-                    "venom_snake_combo_initiate"
-                ],
-                "buff_duration" : 2,
-                "max_stacks" : 1,
-                "mult_bonuses" : [["damage", "bash", 3]]
-            }
+
         ],
         "techniques" : [
             "tec_venom_snake_rapid",
