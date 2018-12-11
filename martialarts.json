@@ -28,9 +28,4 @@
             }
         ],
         "techniques" : [
-            "tec_venom_snake_rapid",
-            "tec_venom_snake_feint",
-            "tec_venom_snake_break",
-            "tec_venom_snake_bite",
-            "tec_venom_snake_strike"
         ]
