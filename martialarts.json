@@ -11,6 +11,7 @@
                 "id" : "acrobat_speedboost_three",
                 "name" : "Hurr durr",
                 "description" : "You do a flip",
+                "unarmed_allowed": true,
                 "flat_bonuses" : [
                     ["speed", 100.0]
 
