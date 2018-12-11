@@ -1,8 +1,8 @@
 [
     {
-              "type" : "technique",
-        "id" : "tec_feint",
-        "name" : "Feint",
+        "type" : "technique",
+        "id" : "tec_acrobatic_miss",
+        "name" : "Miss Recovery",
         "unarmed_allowed" : true,
         "melee_allowed" : true,
         "defensive" : true,
