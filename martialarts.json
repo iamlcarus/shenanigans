@@ -12,7 +12,7 @@
                 "name" : "Hurr durr",
                 "description" : "You do a flip",
                 "flat_bonuses" : [
-                    ["movecost", -25.0]
+                    ["speed", 100.0]
 
                 ]
             }
