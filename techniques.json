@@ -1,5 +1,15 @@
 [
     {
-      
+              "type" : "technique",
+        "id" : "tec_feint",
+        "name" : "Feint",
+        "unarmed_allowed" : true,
+        "melee_allowed" : true,
+        "defensive" : true,
+        "miss_recovery" : true
+        "messages" : [
+            "You miss, but recover %s",
+            "<npcname> misses, but recovers %s"
+        ]
     }
 ]
