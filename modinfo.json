@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "ughfuck",
-    "name": "Testing the shit",
-    "authors": [ "mydick" ],
-    "description": "AUGH FUCK.",
-    "category": "items",
+    "ident": "perfarts",
+    "name": "Performance Arts",
+    "authors": [ "lcarus" ],
+    "description": "Adds a set of martial arts themed around the performing arts.",
+    "category": "misc_additions",
     "dependencies": [ "dda" ]
   }
 ]
