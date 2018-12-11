@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "ughfuck",
+    "name": "Testing the shit",
+    "authors": [ "mydick" ],
+    "description": "AUGH FUCK.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
