@@ -1,9 +1,9 @@
 //imma just steal all this code kay thx
     },{
         "type" : "martial_art",
-        "id" : "style_venom_snake",
-        "name" : "Viper Kung Fu",
-        "description": "A legacy of the Five Deadly Venoms.  Viper Style has a unique three-part combo, which initiates on a dodge, then counters with a stunning chop and the legendary Viper Strike.",
+        "id" : "style_acrobat",
+        "name" : "acrobat",
+        "description": "hope this works",
         "arm_block" : 99,
         "leg_block" : 99,
         "static_buffs" : [
