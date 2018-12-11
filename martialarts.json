@@ -12,7 +12,7 @@
                 "id" : "acrobat_speedboost_three",
                 "name" : "Hurr durr",
                 "description" : "You do a flip",
-                mult_bonuses : [["movecost", 0.0]],
+                mult_bonuses : [["movecost", 0.0]]
             }
         ],
         "ongethit_buffs": [
