@@ -1,5 +1,6 @@
 //imma just steal all this code kay thx
-    },{
+[
+    {
         "type" : "martial_art",
         "id" : "style_acrobat",
         "name" : "acrobat",
