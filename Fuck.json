@@ -27,7 +27,6 @@
                 "mult_bonuses" : [["damage", "bash", 1.5]],
                 "stun_dur" : 2
             }
-
         ],
         "techniques" : [
             "tec_venom_snake_rapid",
