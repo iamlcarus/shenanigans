@@ -6,7 +6,7 @@
         "description": "hope this works",
         "arm_block" : 99,
         "leg_block" : 99,
-        "static_buffs" : [
+        "ondodge_buffs" : [
             {
                 "id" : "venom_snake_static",
                 "name" : "Viper Patience",
@@ -15,7 +15,7 @@
                 "flat_bonuses" : [["dodge", 2.0]]
             }
         ],
-        "ondodge_buffs": [
+        "ongethit_buffs": [
             {
                 "id" : "venom_snake_combo_initiate",
                 "name" : "Viper Ambush",
@@ -28,7 +28,7 @@
                 "stun_dur" : 2
             }
         ],
-        "onhit_buffs": [
+        "onblock_buffs": [
             {
                 "id" : "venom_snake_combo_continue",
                 "name" : "Viper Lock",
