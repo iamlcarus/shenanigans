@@ -2,15 +2,15 @@
     {
         "type" : "martial_art",
         "id" : "style_acrobat",
-        "name" : "acrobat",
-        "description": "hope this works",
+        "name" : "Acrobat",
+        "description": "Having training in acrobatics could be handy in the cataclysm.",
         "arm_block" : 99,
         "leg_block" : 99,
         "ondodge_buffs" : [
             {
-                "id" : "acrobat_speedboost_three",
-                "name" : "Hurr durr",
-                "description" : "You do a flip",
+                "id" : "acrobat_speedboost",
+                "name" : "Acrobatic Dodge",
+                "description" : "+100 AP for a successful dodge.",
                 "unarmed_allowed": true,
                 "melee_allowed" : true,
                 "flat_bonuses" : [
