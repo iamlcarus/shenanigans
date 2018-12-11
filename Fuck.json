@@ -8,7 +8,7 @@
         "leg_block" : 99,
         "ondodge_buffs" : [
             {
-                "id" : "venom_snake_static",
+                "id" : "acrobat_speedboost_three",
                 "name" : "Viper Patience",
                 "description" : "+2 Dodge.  Dodging an attack initiates a combo.",
                 "unarmed_allowed" : true,
@@ -17,7 +17,7 @@
         ],
         "ongethit_buffs": [
             {
-                "id" : "venom_snake_combo_initiate",
+                "id" : "acrobat_speedboost_one",
                 "name" : "Viper Ambush",
                 "description" : "You've lured 'em in!  Your next attack will be a Viper Bite.",
                 "unarmed_allowed" : true,
@@ -30,7 +30,8 @@
         ],
         "onblock_buffs": [
             {
-                "id" : "venom_snake_combo_continue",
+                "id" : "acrobat_speedboost_two
+                ",
                 "name" : "Viper Lock",
                 "description" : "You bit true!  Your next attack will be the Viper Strike!",
                 "unarmed_allowed" : true,
