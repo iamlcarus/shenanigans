@@ -9,9 +9,8 @@
         "ondodge_buffs" : [
             {
                 "id" : "acrobat_speedboost_three",
-                "name" : "Viper Patience",
-                "description" : "+2 Dodge.  Dodging an attack initiates a combo.",
-                "unarmed_allowed" : true,
+                "name" : "Hurr durr",
+                "description" : "You do a flip",
                 mult_bonuses : [["movecost", 0.0]],
             }
         ],
