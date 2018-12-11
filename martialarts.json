@@ -14,18 +14,5 @@
                 "mult_bonuses" : [["movecost", 0.0]]
             }
         ],
-        "ongethit_buffs": [
-            {
-                "id" : "acrobat_speedboost_one",
-                "name" : "Viper Ambush",
-                "description" : "You've lured 'em in!  Your next attack will be a Viper Bite.",
-                "unarmed_allowed" : true,
-                "min_unarmed" : 0,
-                "buff_duration" : 2,
-                "max_stacks" : 1,
-                "mult_bonuses" : [["damage", "bash", 1.5]],
-                "stun_dur" : 2
-            }
-        ],
         "techniques" : [
         ]
