@@ -4,7 +4,7 @@
     "ident": "vagabond",
     "name": "Vagabond",
     "description": "Circumstances left you wandering, with no home, no family, no friends. But the world you knew is gone, and maybe your experiences relying on yourself to survive could be useful in this new one.",
-    "points": 1,
+    "points": 3,
     "skills": [ 
         { "level": 2, "name": "unarmed" }
         { "level": 2, "name": "survival"}
