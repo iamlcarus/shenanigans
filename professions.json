@@ -9,5 +9,6 @@
       "both": [ "jeans", "tshirt", "gloves_light", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "can_beans", "pockknife", "matches" ],
       "male": [ "boxer_briefs" ],
       "female": [ "bra", "panties" ]
+        }
     }
 ]
