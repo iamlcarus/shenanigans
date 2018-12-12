@@ -6,7 +6,7 @@
     "description": "Society drove you to the fringes and set you wandering, with no home, no family, no friends. But society doesn't mean a thing anymore, and maybe your experiences relying on yourself to survive could be useful.",
     "points": 1,
     "items": {
-      "both": [ "jeans", "tshirt", "gloves_light", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "jug_plastic", "can_beans", "pockknife", "matches" ],
+      "both": [ "jeans", "tshirt", "gloves_light", "duffel_bag", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "jug_plastic", "can_beans", "pockknife", "matches" ],
       "male": [ "boxer_briefs" ],
       "female": [ "bra", "panties" ]
         }
