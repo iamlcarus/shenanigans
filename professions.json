@@ -14,7 +14,7 @@
         { "level": 2, "name": "cooking"}
     ],
     "items": {
-      "both": [ "jeans", "tshirt", "gloves_light", "hat_ball", "duffel_bag", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "jug_plastic", "can_beans", "pockknife", "matches" ],
+      "both": [ "jeans", "tshirt", "gloves_light", "hat_ball", "duffelbag", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "jug_plastic", "can_beans", "pockknife", "matches" ],
       "male": [ "boxer_briefs" ],
       "female": [ "bra", "panties" ]
         }
