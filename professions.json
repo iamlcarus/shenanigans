@@ -1,0 +1,13 @@
+[
+{
+    "type": "profession",
+    "ident": "vagabond",
+    "name": "Vagabond",
+    "description": "Society drove you to the fringes and set you wandering, with no home, no family, no friends, until you could only find solace in the bottom of a bottle.  But society doesn't mean a thing anymore, and for all the crap thrown your way, you're still standing.  God damn, you need a drink.",
+    "points": 1,
+    "items": {
+      "both": [ "jeans", "tshirt", "gloves_light", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "can_beans", "pockknife", "matches" ],
+      "male": [ "boxer_briefs" ],
+      "female": [ "bra", "panties" ]
+    }
+]
