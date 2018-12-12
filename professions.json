@@ -5,6 +5,9 @@
     "name": "Vagabond",
     "description": "Circumstances left you wandering, with no home, no family, no friends. But the world you knew is gone, and maybe your experiences relying on yourself to survive could be useful in this new one.",
     "points": 1,
+    "skills": [ 
+        { "level": 4, "name": "tailor" }
+    ],
     "items": {
       "both": [ "jeans", "tshirt", "gloves_light", "hat_ball", "duffel_bag", "long_underpants", "boots", "socks_wool", "socks", "long_undertop", "hoodie", "coat_winter", "knit_scarf", "jug_plastic", "can_beans", "pockknife", "matches" ],
       "male": [ "boxer_briefs" ],
